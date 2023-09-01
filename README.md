@@ -37,19 +37,8 @@ Notify Users: The system sends notifications (e.g., email notifications) to user
 
 Use Case Diagram:
 
-  +------------+         +------------------------+        +--------+
-  |   Student  |-------|   Internship Portal   |-------|  Admin  |
-  +------------+         |        System         |        +--------+
-                         +------------------------+
-                                |           |
-                                |           |
-                         +------+-------+   |   +------------+
-                         |   Employer  |---|   |   Employer  |
-                         +------------+   |   +------------+
-                                          |
-                                     +----+----+
-                                     |   User   |
-                                     +---------+
+![Get_Placed-UCD](https://github.com/mayank-0407/GetPlaced/assets/97796657/6a1360c3-de0c-46df-9350-2f5da9047012)
+
 Use Case Relationships:
 
 Student can perform "Browse Internships," "Apply for Internship," "Register Account," and "Log In" use cases.
