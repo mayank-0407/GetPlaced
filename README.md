@@ -37,7 +37,7 @@ Notify Users: The system sends notifications (e.g., email notifications) to user
 
 Use Case Diagram:
 
-![Get_Placed-UCD](https://github.com/mayank-0407/GetPlaced/assets/97796657/6a1360c3-de0c-46df-9350-2f5da9047012)
+![image](https://github.com/mayank-0407/GetPlaced/assets/97796657/ab251ec5-6cf8-434e-bf50-20ffa99ca74c)
 
 Use Case Relationships:
 
